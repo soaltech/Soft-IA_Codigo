@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 este es un primer cambio de Soft-IA 
 por fin lo pase a local
+=======
+Hola crack del análisis!
+>>>>>>> 566b55d5194af77bad37976042bd26f693a922bb
